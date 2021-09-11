@@ -32,5 +32,4 @@ public class Vehiculo {
         return 0;
     }
     public void abastecer(int cantidad){}
-
 }
