@@ -1,0 +1,64 @@
+
+=cs.ing.software.lab1.Automovil#recorrido(D)Ljava/lang/String;n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java ("3*–
+
+2n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (&³
+°
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (3
+%2java.lang.String"__concat*
+Automovil viajo *
+""Â
+¿
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (E
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ y aun tiene …
+‚
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.javaG (i
+%4java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%.2f*
+""É
+Æ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (i
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.StringÄ
+Á
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (|
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+ de combustible"Š
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (~
+
+%6java.lang.String*Ã
+3n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (!âß
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (/
+%0double",cs.ing.software.lab1.Vehiculo#getCantidad()D*" 
+cs.ing.software.lab1.Automovil2getCantidad()àÝ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java2 (C
+%1double"+cs.ing.software.lab1.Vehiculo#getConsumo()D*" 
+cs.ing.software.lab1.Automovil2getConsumo()*
+2
+1*ž
+1n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (H"¨
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (J64
+2Automovil necesita reabastecimiento de combustible:
+""B" 
+cs.ing.software.lab1.Automovil

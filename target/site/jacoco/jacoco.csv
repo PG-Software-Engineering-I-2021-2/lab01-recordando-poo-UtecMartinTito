@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+lab01-recordando-poo-UtecMartinTito,cs.ing.software.lab1,Main,30,0,0,0,7,0,2,0,2,0
+lab01-recordando-poo-UtecMartinTito,cs.ing.software.lab1,Camion,0,80,0,4,0,14,0,5,0,3
+lab01-recordando-poo-UtecMartinTito,cs.ing.software.lab1,Vehiculo,0,55,0,0,0,19,0,12,0,12
+lab01-recordando-poo-UtecMartinTito,cs.ing.software.lab1,Automovil,0,80,0,4,0,14,0,5,0,3

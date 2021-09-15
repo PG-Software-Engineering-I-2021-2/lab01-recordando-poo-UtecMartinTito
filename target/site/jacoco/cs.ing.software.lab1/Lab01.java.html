@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Lab01.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">lab01-recordando-poo-UtecMartinTito</a> &gt; <a href="index.source.html" class="el_package">cs.ing.software.lab1</a> &gt; <span class="el_source">Lab01.java</span></div><h1>Lab01.java</h1><pre class="source lang-java linenums">package cs.ing.software.lab1;
+
+import java.util.logging.Logger;
+import java.text.DecimalFormat;
+
+<span class="nc" id="L6">public class Lab01 {</span>
+<span class="nc" id="L7">    static final Logger logger = Logger.getLogger(Lab01.class.getName());</span>
+<span class="nc" id="L8">    static String vehiculoViajo = &quot;Vehiculo viajo&quot;;</span>
+<span class="nc" id="L9">    static String aunTiene = &quot; y aun tiene &quot;;</span>
+<span class="nc" id="L10">    static String deCombustible = &quot; de combustible&quot;;</span>
+
+    public static void main(String[ ] args) {
+<span class="nc" id="L13">        DecimalFormat df = new DecimalFormat(&quot;0.00&quot;);</span>
+//Ejemplo 1
+<span class="nc" id="L15">        Automovil lAutomovil1 = new Automovil(10,100,0.9,4);</span>
+<span class="nc" id="L16">        double lAutomovilConsumo1 =   Math.round(lAutomovil1.consumoCombustible()*100.0)/100.0;</span>
+<span class="nc" id="L17">        logger.info(vehiculoViajo + lAutomovil1.getViaje() + aunTiene + df.format(lAutomovilConsumo1)+ deCombustible);</span>
+
+//Ejemplo 2
+<span class="nc" id="L20">        Automovil lAutomovil2 = new Automovil(10,100,0.9,12);</span>
+
+<span class="nc" id="L22">        double lAutomovilConsumo2 = Math.round(lAutomovil2.consumoCombustible()*100.0)/100.0;</span>
+<span class="nc bnc" id="L23" title="All 2 branches missed.">        if(lAutomovilConsumo2&gt;0)</span>
+<span class="nc" id="L24">            logger.info(vehiculoViajo+ lAutomovil2.getViaje() + aunTiene + df.format(lAutomovilConsumo2)+ deCombustible);</span>
+        else
+<span class="nc" id="L26">            logger.info(&quot;Vehiculo necesita reabastecemiento de combustible&quot;);</span>
+
+//Ejemplo 3
+<span class="nc" id="L29">        Camion lCamion = new Camion(10,100,1.6,4);</span>
+<span class="nc" id="L30">        double lCamionConsumo = Math.round(lCamion.consumoCombustible()*100.0)/100.0;</span>
+
+
+<span class="nc" id="L33">        logger.info(vehiculoViajo+ lCamion.getViaje() + aunTiene + df.format(lCamionConsumo)+ deCombustible);</span>
+
+<span class="nc" id="L35">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

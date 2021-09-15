@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Automovil.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">lab01-recordando-poo-UtecMartinTito</a> &gt; <a href="index.source.html" class="el_package">cs.ing.software.lab1</a> &gt; <span class="el_source">Automovil.java</span></div><h1>Automovil.java</h1><pre class="source lang-java linenums">package cs.ing.software.lab1;
+
+public class Automovil extends Vehiculo {
+    public Automovil( double  cantidad,
+                      double capacidad,
+<span class="fc" id="L6">                      double consumo) {</span>
+<span class="fc" id="L7">        this.setCantidad(cantidad);</span>
+<span class="fc" id="L8">        this.setCapacidad(capacidad);</span>
+<span class="fc" id="L9">        this.setConsumo(consumo);</span>
+<span class="fc" id="L10">        this.setCombGuardado(1);</span>
+<span class="fc" id="L11">    }</span>
+
+    @Override
+    public String recorrido(double kilometers){
+<span class="fc" id="L15">        double consumoAuto = this.getCantidad() - this.getConsumo() * kilometers;</span>
+<span class="fc bfc" id="L16" title="All 2 branches covered.">        if(consumoAuto &gt; 0){</span>
+<span class="fc" id="L17">            return (&quot;Automovil viajo &quot; + kilometers + &quot; y aun tiene &quot;+ String.format(&quot;%.2f&quot;, consumoAuto)+ &quot; de combustible&quot;);</span>
+        }
+        else{
+<span class="fc" id="L20">            return (&quot;Automovil necesita reabastecimiento de combustible&quot;);</span>
+        }
+    }
+
+    @Override
+    public String abastecer(double liters){
+<span class="fc" id="L26">        this.calculo(liters);</span>
+<span class="fc bfc" id="L27" title="All 2 branches covered.">        if (liters &gt; getEspacioTanque())</span>
+<span class="fc" id="L28">            return &quot;Automovil no se puede reabastecer el tanque, esta lleno&quot;;</span>
+        else
+<span class="fc" id="L30">            return &quot;La cantidad de combustible del automovil es: &quot; + String.format(&quot;%.2f&quot;, this.getCantidad());</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

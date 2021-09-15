@@ -1,0 +1,50 @@
+
+=cs.ing.software.lab1.Automovil#abastecer(D)Ljava/lang/String;n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java ("3*£
+2n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (L"≠
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (M;9
+7Automovil no se puede reabastecer el tanque, esta lleno*œ
+3n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (‚ﬂ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (
+
+%0void")cs.ing.software.lab1.Vehiculo#calculo(D)V*" 
+cs.ing.software.lab1.Automovil*
+""2
+calculo(D)ÏÈ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java ('
+%1double"1cs.ing.software.lab1.Vehiculo#getEspacioTanque()D*" 
+cs.ing.software.lab1.Automovil2getEspacioTanque()*
+2
+1*⁄
+1n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (B‚ﬂ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java[ (m
+%2double",cs.ing.software.lab1.Vehiculo#getCantidad()D*" 
+cs.ing.software.lab1.Automovil2getCantidad()ç
+ä
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.javaE (n
+%3java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%.2f*
+
+%2double‚
+ﬂ
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (n
+%4java.lang.String"__concat*1/
+-La cantidad de combustible del automovil es: *
+
+%3java.lang.String"ä
+n
+dC:/UTEC_Cpp/SE/lab01-recordando-poo-UtecMartinTito/src/main/java/cs/ing/software/lab1/Automovil.java (o
+
+%4java.lang.String:
+""B" 
+cs.ing.software.lab1.Automovil
