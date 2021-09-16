@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1007" failures="0" name="cs.ing.software.lab1.MainTest" time="0.23" errors="0" skipped="0">
+<testsuite tests="1007" failures="0" name="cs.ing.software.lab1.MainTest" time="0.248" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.12+8-LTS-237"/>
@@ -64,13 +64,108 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test01" time="0.028"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test01" time="0.043"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test02" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test03" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test04" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test05" time="0.003"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test05" time="0.004"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test06" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test07" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test07" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.005"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.01"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.004"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -81,7 +176,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -92,154 +186,21 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.003"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -251,40 +212,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -294,21 +221,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.003"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.004"/>
@@ -321,7 +233,54 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.006"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -338,40 +297,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.007"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -380,245 +305,7 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.003"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.004"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -637,96 +324,7 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -737,40 +335,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
@@ -805,10 +369,41 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -828,36 +423,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -875,27 +440,12 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -907,10 +457,40 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -931,6 +511,39 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -949,6 +562,32 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -967,40 +606,362 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -1013,7 +974,6 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -1021,7 +981,9 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -1048,6 +1010,47 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
@@ -1057,14 +1060,11 @@
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.002"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
-  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
+  <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
   <testcase classname="cs.ing.software.lab1.MainTest" name="Test08" time="0.001"/>
